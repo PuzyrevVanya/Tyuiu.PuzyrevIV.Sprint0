@@ -17,4 +17,4 @@ namespace Tyuiu.PuzyrevIV.Sprint0.Task1.V0
             Console.ReadKey();
         }
     }
-}          
+}
