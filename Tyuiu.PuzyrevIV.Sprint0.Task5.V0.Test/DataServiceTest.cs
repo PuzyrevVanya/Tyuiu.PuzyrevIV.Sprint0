@@ -1,7 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
-using Tyuiu.PuzyrevIV.Sprint0.Task5.V0.Lib
+using Tyuiu.PuzyrevIV.Sprint0.Task5.V0.Lib;
 
 namespace Tyuiu.PuzyrevIV.Sprint0.Task5.V0.Test
 {
